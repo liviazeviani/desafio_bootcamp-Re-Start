@@ -21,3 +21,5 @@ Brazil 2023.</p>
 3. Quantos profissionais estão em cada nível (junior, pleno, sênior e gestor)
 4. Os profissionais da área estão satisfeitos?
 5. Quais são as principais ferramentas utilizadas?
+
+[Link para o Dashboard](https://app.powerbi.com/groups/me/reports/5609fe1c-99ad-4047-a3ec-5c1ff86aa70f?ctid=4f2069ea-f9cc-4379-9e28-605f677a17bd&pbi_source=linkShare)
